@@ -26,7 +26,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 <a href="https://youtu.be/LXPbprYZdgg">
-    <img style="max-width:300px;" src="">
+    <img style="max-width:600px;"
+src="https://giphy.com/gifs/8NaJu4Cu8Kxtgpb9Yf">
 </a>
 
 
