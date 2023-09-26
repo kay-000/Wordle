@@ -26,6 +26,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 <a href="https://youtu.be/LXPbprYZdgg">
+    <img style="max-width:300px;" src="">
 </a>
 
 
